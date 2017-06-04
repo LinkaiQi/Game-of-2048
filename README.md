@@ -1,13 +1,11 @@
 # Game-of-2048
 
-type "$./python3 game.py" to run the 2048
+**Run:**
 
-type "w" to moveup
+"$./python3 game.py" to run the 2048
 
-type "s" to movedown
-
-type "a" to moveleft
-
-type "d" to moveright
-
-type "q" to quit(exit)
+    "w" to moveup
+    "s" to movedown
+    "a" to moveleft
+    "d" to moveright
+    "q" to quit(exit)
